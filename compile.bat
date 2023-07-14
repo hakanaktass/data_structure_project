@@ -1,0 +1,1 @@
+gcc .\main.c .\pgm.c .\linkedlist.c .\rle.c -o main -Wall -Werror
